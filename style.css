@@ -1,0 +1,10 @@
+#gridoutline {
+    max-height: 600px;
+    max-width: 600px;
+    border: 4px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    align-items: flex-start;
+}
